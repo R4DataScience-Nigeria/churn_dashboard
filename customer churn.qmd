@@ -1,4 +1,3 @@
-
 ---
 title: "Churns"
 format: 
@@ -234,7 +233,7 @@ The data was obtained from a multinational bank with branches in Nigeria and acr
 The variables and their definition are given below.
 
 |                     |                                                                                                  |
-|:---------------|:-------------------------------------------------------|
+|:--------------------|:-------------------------------------------------------------------------------------------------|
 | **Variable**        |                                                                                                  |
 | Account ID          | A unique identifier for each customer account.                                                   |
 | Years               | The number of years a customer has been with the bank.                                           |

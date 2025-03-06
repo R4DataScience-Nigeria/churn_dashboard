@@ -5347,8 +5347,131 @@
     }
   },
   "files": {
+    "clean_churn.rds": {
+      "checksum": "4d96954e81a2f604569ff5a4c2202731"
+    },
+    "customer churn_files/libs/bootstrap/bootstrap-f87f3744a2aac4386a977f96de6c3589.min.css": {
+      "checksum": "f87f3744a2aac4386a977f96de6c3589"
+    },
+    "customer churn_files/libs/bootstrap/bootstrap-icons.css": {
+      "checksum": "2318f137d201fbf51601fa0faba6bef7"
+    },
+    "customer churn_files/libs/bootstrap/bootstrap-icons.woff": {
+      "checksum": "1a51dfbe5467607389d603c02a77cd10"
+    },
+    "customer churn_files/libs/bootstrap/bootstrap.min.js": {
+      "checksum": "e2b09c06f0e714b6144a6788a28e3950"
+    },
+    "customer churn_files/libs/clipboard/clipboard.min.js": {
+      "checksum": "15f52a1ee547f2bdd46e56747332ca2d"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/css/crosstalk.min.css": {
+      "checksum": "3372343a6739e49faffeb858d451558e"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/js/crosstalk.js": {
+      "checksum": "0cedbe7e922170c10db55772f82139e3"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/js/crosstalk.js.map": {
+      "checksum": "6f4eb7fff5f7965637440ad7be0fb877"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/js/crosstalk.min.js": {
+      "checksum": "66b6e84d85256249d722c6e94143eb73"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/js/crosstalk.min.js.map": {
+      "checksum": "7a0a37270ea71dee56cebc627c58ca03"
+    },
+    "customer churn_files/libs/crosstalk-1.2.1/scss/crosstalk.scss": {
+      "checksum": "e5410240dcb4f51691eab5f9a62720d7"
+    },
+    "customer churn_files/libs/datatables-binding-0.33/datatables.js": {
+      "checksum": "94d927c2413ab0af4fbcf0fe83bf2950"
+    },
+    "customer churn_files/libs/datatables-css-0.0.0/datatables-crosstalk.css": {
+      "checksum": "d8b3c70e6451e656f1fa231e2bf97ced"
+    },
+    "customer churn_files/libs/dt-core-1.13.6/css/jquery.dataTables.extra.css": {
+      "checksum": "704b5e060968ac06041f9b2d9ee545b5"
+    },
+    "customer churn_files/libs/dt-core-1.13.6/css/jquery.dataTables.min.css": {
+      "checksum": "e3621690205662b3f96746d73a0fe4b2"
+    },
+    "customer churn_files/libs/dt-core-1.13.6/js/jquery.dataTables.min.js": {
+      "checksum": "44e877882207ee93b9d9d17dd0e11c87"
+    },
+    "customer churn_files/libs/htmltools-fill-0.5.8.1/fill.css": {
+      "checksum": "0c307b2ce7a3fa7f260a0451457c809f"
+    },
+    "customer churn_files/libs/htmlwidgets-1.6.4/htmlwidgets.js": {
+      "checksum": "237f59bc086ccf24f39be55311023b91"
+    },
+    "customer churn_files/libs/jquery-3.6.0/jquery-3.6.0.js": {
+      "checksum": "2849239b95f5a9a2aea3f6ed9420bb88"
+    },
+    "customer churn_files/libs/jquery-3.6.0/jquery-3.6.0.min.js": {
+      "checksum": "8fb8fee4fcc3cc86ff6c724154c49c42"
+    },
+    "customer churn_files/libs/jquery-3.6.0/jquery-3.6.0.min.map": {
+      "checksum": "6efc5d663aaacac2024153fa0d4bafcd"
+    },
+    "customer churn_files/libs/plotly-binding-4.10.4/plotly.js": {
+      "checksum": "3c7c9d64b95cebf57b0180d466b17239"
+    },
+    "customer churn_files/libs/plotly-htmlwidgets-css-2.11.1/plotly-htmlwidgets.css": {
+      "checksum": "150e4929cfd53a8a39835d40a108a54e"
+    },
+    "customer churn_files/libs/plotly-main-2.11.1/plotly-latest.min.js": {
+      "checksum": "1fc102cdbb70da7c36352fa857d2fac3"
+    },
+    "customer churn_files/libs/quarto-dashboard/components.js": {
+      "checksum": "ac49ebff39666f27f4631a3914841683"
+    },
+    "customer churn_files/libs/quarto-dashboard/datatables.min.css": {
+      "checksum": "7b2279175549cd49b758a7d5b4da6cd6"
+    },
+    "customer churn_files/libs/quarto-dashboard/datatables.min.js": {
+      "checksum": "80521430bee6a8d1a1ba48987ff870c1"
+    },
+    "customer churn_files/libs/quarto-dashboard/pdfmake.min.js": {
+      "checksum": "95caca411bcbd3095c0f8db152de05dd"
+    },
+    "customer churn_files/libs/quarto-dashboard/quarto-dashboard.js": {
+      "checksum": "73bfea128e6f7c27f0bab4cc0777aff9"
+    },
+    "customer churn_files/libs/quarto-dashboard/stickythead.js": {
+      "checksum": "5b27aeec9a60192899f23015fd741564"
+    },
+    "customer churn_files/libs/quarto-dashboard/vfs_fonts.js": {
+      "checksum": "8a026906153f3e29bc684f6b392e8654"
+    },
+    "customer churn_files/libs/quarto-dashboard/web-components.js": {
+      "checksum": "c91de9b5866fb45c694bbeafa119d6b9"
+    },
+    "customer churn_files/libs/quarto-html/anchor.min.js": {
+      "checksum": "91bcf6cd1fd88fec3f109811e5fc3546"
+    },
+    "customer churn_files/libs/quarto-html/popper.min.js": {
+      "checksum": "3a4a291ccf3f1ea0f82b641542fd3827"
+    },
+    "customer churn_files/libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css": {
+      "checksum": "2f5df379a58b258e96c21c0638c20c03"
+    },
+    "customer churn_files/libs/quarto-html/quarto.js": {
+      "checksum": "b2cce65711e74956eb7b7aa2f4d3943f"
+    },
+    "customer churn_files/libs/quarto-html/tippy.css": {
+      "checksum": "ebd6f8ce46a677e1a4f5f8a8317109a9"
+    },
+    "customer churn_files/libs/quarto-html/tippy.umd.min.js": {
+      "checksum": "d828775275749701b48bd9d958814111"
+    },
+    "customer churn_files/libs/typedarray-0.1/typedarray.min.js": {
+      "checksum": "4db25a9ed5c5fcf2dd1746f27be2ef39"
+    },
+    "customer churn.html": {
+      "checksum": "27da75bf09afbd182fcc65f01bbe44b4"
+    },
     "customer churn.qmd": {
-      "checksum": "552b628736587a5e972acff5af1cc83d"
+      "checksum": "edd3af7a7b89c13df8836cfe50a22bba"
     },
     "README.md": {
       "checksum": "fe3abf355d9b2ea36c591ac27fd5d590"
