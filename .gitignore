@@ -4,4 +4,4 @@
 .Ruserdata
 .clean_churn.rds
 .customer churn.html
-.customer churn_files
+.customer churn_files/
